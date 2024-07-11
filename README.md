@@ -1,4 +1,4 @@
 # scaling-carnival
-A complete, solution 1 design completed by our founder and chief
+This be for anyone who wish to edit our solution 1 design and anonymously ask for guided instruction from a mentor.
 --------------------------------------------------------------
-This is a Javascript bot that runs a proprietary function libriaries gaming system. You like? 
+Feel free to report at ease or in your preferred nomenclature.
